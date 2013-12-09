@@ -21,7 +21,7 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
             
-            label1.Text = "test";
+            label1.Text = "TEST";
             button1.BackColor = Color.Red;
             move1 = move1 + 1;
             label2.Text = move1.ToString();
